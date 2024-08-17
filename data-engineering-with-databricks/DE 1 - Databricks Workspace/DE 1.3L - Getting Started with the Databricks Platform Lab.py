@@ -101,6 +101,10 @@
 
 # COMMAND ----------
 
+print(my_name)
+
+# COMMAND ----------
+
 assert my_name is not None, "Name is still None"
 print(my_name)
 
